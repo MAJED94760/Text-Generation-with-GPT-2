@@ -2,7 +2,7 @@
 This project uses Gradio and GPT-2 to demonstrate text generation
 # Text-to-Text AI Pipelines with Gradio and Hugging Face
 
- # Text-to-Text AI Pipelines with Gradio and Hugging Face
+
 
 ## Project Overview
 
